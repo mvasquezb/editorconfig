@@ -18,7 +18,7 @@ indent_size = 4
 [Makefile]
 indent_style = tab
 
-[*.{html,css,js}]
+[*.{html,css,js,rb}]
 indent_style = space
 indent_size = 2
 
@@ -30,3 +30,4 @@ indent_size = 2
 # Trailin whitespace in Markdown has meaning
 [*.md]
 trim_trailing_whitespace = false
+
